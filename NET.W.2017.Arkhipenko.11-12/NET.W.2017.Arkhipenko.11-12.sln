@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibinacci", "Fibinacci\Fibinacci.csproj", "{AD6AF149-8F01-4A12-A411-B139A5F08E7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcher", "BinarySearcher\BinarySearcher.csproj", "{17525421-7B52-4DA7-B220-B9609EDC9E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcherTest", "BinarySearcherTest\BinarySearcherTest.csproj", "{3FF50B38-20CF-4595-B3D0-28D61A3925A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AD6AF149-8F01-4A12-A411-B139A5F08E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD6AF149-8F01-4A12-A411-B139A5F08E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD6AF149-8F01-4A12-A411-B139A5F08E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17525421-7B52-4DA7-B220-B9609EDC9E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17525421-7B52-4DA7-B220-B9609EDC9E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17525421-7B52-4DA7-B220-B9609EDC9E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17525421-7B52-4DA7-B220-B9609EDC9E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
