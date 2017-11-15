@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibinacci", "Fibinacci\Fibinacci.csproj", "{AD6AF149-8F01-4A12-A411-B139A5F08E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibinacci", "Fibinacci\Fibinacci.csproj", "{AD6AF149-8F01-4A12-A411-B139A5F08E7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcher", "BinarySearcher\BinarySearcher.csproj", "{17525421-7B52-4DA7-B220-B9609EDC9E8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearcher", "BinarySearcher\BinarySearcher.csproj", "{17525421-7B52-4DA7-B220-B9609EDC9E8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcherTest", "BinarySearcherTest\BinarySearcherTest.csproj", "{3FF50B38-20CF-4595-B3D0-28D61A3925A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{8DE4D7BD-A43E-4C52-8D83-B63E7EB8B32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{3EB81176-46D3-4620-8CB2-A351F29D7155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +31,14 @@ Global
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE4D7BD-A43E-4C52-8D83-B63E7EB8B32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE4D7BD-A43E-4C52-8D83-B63E7EB8B32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE4D7BD-A43E-4C52-8D83-B63E7EB8B32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE4D7BD-A43E-4C52-8D83-B63E7EB8B32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB81176-46D3-4620-8CB2-A351F29D7155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB81176-46D3-4620-8CB2-A351F29D7155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB81176-46D3-4620-8CB2-A351F29D7155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB81176-46D3-4620-8CB2-A351F29D7155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
