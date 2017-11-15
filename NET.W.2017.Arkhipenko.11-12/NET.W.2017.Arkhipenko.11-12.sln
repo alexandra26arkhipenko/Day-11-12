@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcher", "BinarySea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearcherTest", "BinarySearcherTest\BinarySearcherTest.csproj", "{3FF50B38-20CF-4595-B3D0-28D61A3925A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF50B38-20CF-4595-B3D0-28D61A3925A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F780EFD3-1BBE-4F4E-9185-C9E50D733A35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
