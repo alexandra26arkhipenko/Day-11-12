@@ -6,9 +6,9 @@ namespace Fibinacci
     public class Fibinacci
     {
         /// <summary>
-        /// 
+        /// Method generates Fibonacci numbers
         /// </summary>
-        /// <returns></returns>
+        /// <returns>sequence of numbers of long type</returns>
         public static IEnumerable<long> FibonacciGenerate()
         {
             long lhs = 0, rhs = 1;
